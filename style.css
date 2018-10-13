@@ -55,7 +55,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: Tahoma, Geneva, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 200;
   line-height: 1.5;
@@ -6364,9 +6364,15 @@ a.text-dark:hover, a.text-dark:focus {
   border-bottom-width: 0.2rem;
   border-style: solid;
   border-color: #ccccc;
+  font-weight: bold;
   border-left-width: 0rem;
   border-right-width: 0rem;
   border-top-width: 0rem; }
+
+.title {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
 
 .diagonal-tl {
   /*  -webkit-clip-path: polygon(76% 0, 0 0, 0 100%);
@@ -6374,12 +6380,14 @@ a.text-dark:hover, a.text-dark:focus {
 
 .left-side {
   background-color: #151515;
+  color: #99aed8;
   border: 0px 0px 5px 0px solid #e98326;
   border-left-width: 0px;
   border-top-width: 0px;
   border-bottom-width: 0px;
   border-style: solid;
   border-color: #e98326;
+  min-height: 100%;
   border-right-width: 1rem; }
 
 .right-side {
