@@ -6355,6 +6355,9 @@ a.text-dark:hover, a.text-dark:focus {
 .bg-blue {
   background-color: #4e71b5;
 }
+.bg-green {
+  background-color: #1ab596;
+}
 
 .foto {
   border-style: solid;
@@ -6427,10 +6430,10 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .right-side .sub-content{
-  padding-left: 1rem;
-  border: 0rem 0rem 0rem 0.5rem;
+  margin-left: 1rem;
+  /*border: 0rem 0rem 0rem 0.5rem;
   border-style: solid;
-  border: black;
+  border: black;*/
 }
 
 .right-side .sub-content .d-flex {
@@ -6443,6 +6446,26 @@ a.text-dark:hover, a.text-dark:focus {
   border-width: 0rem 0rem 0rem 0.3rem;
   border-style:solid;
   border-color: #1ab596;
+}
+
+.skill-level {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.skill-level-low {
+  border-width: 0rem 0rem 0.4rem 0rem;
+  border-style: solid;
+  border-color: #ec8327
+}
+.skill-level-mdr {
+  border-width: 0rem 0rem 0.4rem 0rem;
+  border-style: solid;
+  border-color: #1ab596;
+}
+.skill-level-skl {
+  border-width: 0rem 0rem 0.4rem 0rem;
+  border-style: solid;
+  border-color: #4e71b5;
 }
 
 .text-color-primary {
