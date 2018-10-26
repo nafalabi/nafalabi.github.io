@@ -6360,6 +6360,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .foto {
+  border-radius: 1.5rem;
   border-style: solid;
   border-left-width: 10px;
   border-right-width: 10px;
