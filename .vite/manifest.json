@@ -1,0 +1,498 @@
+{
+  "_client-CTsjVZk1.js": {
+    "file": "assets/client-CTsjVZk1.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-Cu-oTWnL.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-CTsjVZk1.js",
+      "_client-CTsjVZk1.js",
+      "src/components/ProjectItem.tsx"
+    ],
+    "css": [
+      "assets/app-DQzQp3sf.css"
+    ],
+    "assets": [
+      "assets/profile-avatar-CpyOXSTt.jpeg",
+      "assets/ch-idle-Bez9yR0q.png",
+      "assets/ch-search-panel-open-PADVttOw.png",
+      "assets/ch-search-panel-entered-keyword-Bf7pWIRI.png",
+      "assets/ch-menus-q_ZBcMpZ.png",
+      "assets/ch-notes-BmH5uyYL.png",
+      "assets/ch-bookmarks-D5KDG-GB.png",
+      "assets/ch-background-settings1-BFyVz6wv.png",
+      "assets/ch-background-settings2-BHJaLM7o.png",
+      "assets/landing-D9QzskbJ.png",
+      "assets/login-ByXnfBZO.png",
+      "assets/maindashboard-B5WdJw96.png",
+      "assets/scheduled-requests-JbXkES7h.png",
+      "assets/reports1-DHLJBZ6Q.png",
+      "assets/reports2-RQl2iKl6.png",
+      "assets/hotel-admin-homepage-DSLmNL34.png",
+      "assets/checklist-management-XJJNI4Mp.png",
+      "assets/landing-DfON7TD1.png",
+      "assets/admin-login-CqRCRM1A.png",
+      "assets/admin-page-COg-qBeA.png",
+      "assets/payment-step1-BjkNosky.png",
+      "assets/payment-step2-2q6pODMl.png",
+      "assets/payment-step3-nljK5GM_.png",
+      "assets/payment-step4-BC_aYi4T.png",
+      "assets/payment-step5-C93UMcpP.png",
+      "assets/intro-tbZM6PWt.png",
+      "assets/register-DrFUwJbs.png",
+      "assets/forgot-password-DMmakf9T.png",
+      "assets/mainhomepage-6Psn11n4.png",
+      "assets/myaccount-BV2d9QF5.png",
+      "assets/elearning-C9hg5OC5.png",
+      "assets/intara-device-BkKBAtaJ.png",
+      "assets/intara-login-CxtDoic2.png",
+      "assets/intara-overview-CB8m_JoB.png",
+      "assets/intara-pasien-DnlzTP-1.png",
+      "assets/intara-usage-Bl3jI6zq.png",
+      "assets/login-page-CAGAGG-y.webp",
+      "assets/pos-canceled-BNLL8qFC.webp",
+      "assets/pos-complete-eyzSBy31.webp",
+      "assets/pos-create-product-7qO_l53M.webp",
+      "assets/pos-home-cart-CyITGGRf.webp",
+      "assets/pos-list-orders-Dx8c_3Hx.webp",
+      "assets/pos-list-product-Bmjq7Kmb.webp",
+      "assets/pos-mobile-view-detail-BNWqxaWI.webp",
+      "assets/pos-mobile-view-ODnGYgES.webp",
+      "assets/pos-paid-CtOuxScm.webp",
+      "assets/pos-pending-cash-AKNMYRni.webp",
+      "assets/pos-pending-qris-BwLP5fC8.webp",
+      "assets/dashboard-D-v2PQPw.webp",
+      "assets/login-CI6yqE4V.webp",
+      "assets/payment-due-payment-bqTILrtd.webp",
+      "assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
+      "assets/plans-CHVw5QBa.webp",
+      "assets/settings-sRN7cwqn.webp",
+      "assets/users-ClEBNJ90.webp",
+      "assets/netpolitan_logo-_X81dkbe.jpeg",
+      "assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
+      "assets/montserrat-latin-100-normal-DBjbkire.woff",
+      "assets/montserrat-latin-200-normal-Co0glrxx.woff2",
+      "assets/montserrat-latin-200-normal-ByeQgr9u.woff",
+      "assets/montserrat-latin-300-normal-DYYY4VIB.woff2",
+      "assets/montserrat-latin-300-normal-DrgRfrdN.woff",
+      "assets/montserrat-latin-400-normal-BfmCfwfZ.woff2",
+      "assets/montserrat-latin-400-normal-BhTl8mZv.woff",
+      "assets/montserrat-latin-500-normal-CN3hDfLq.woff2",
+      "assets/montserrat-latin-500-normal-T-BM6Fhn.woff",
+      "assets/montserrat-latin-600-normal-CFh7D7Z4.woff2",
+      "assets/montserrat-latin-600-normal-C1Wg56Vg.woff",
+      "assets/montserrat-latin-700-normal-Dkxlx_w4.woff2",
+      "assets/montserrat-latin-700-normal-o5q9xX7W.woff",
+      "assets/montserrat-latin-800-normal-DIlMgMlR.woff2",
+      "assets/montserrat-latin-800-normal-Cf8oFnaQ.woff",
+      "assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
+      "assets/montserrat-latin-900-normal-B8YluUfy.woff",
+      "assets/montserrat-latin-100-italic-DTszKFgb.woff2",
+      "assets/montserrat-latin-100-italic--4mZ6fjb.woff",
+      "assets/montserrat-latin-200-italic-BGwqYsvp.woff2",
+      "assets/montserrat-latin-200-italic-B-8fPZpI.woff",
+      "assets/montserrat-latin-300-italic-C9RzMG1_.woff2",
+      "assets/montserrat-latin-300-italic-C0sppkn3.woff",
+      "assets/montserrat-latin-400-italic-DK-gMZXQ.woff2",
+      "assets/montserrat-latin-400-italic-Bo3p_2Fg.woff",
+      "assets/montserrat-latin-500-italic-nNzpCo1d.woff2",
+      "assets/montserrat-latin-500-italic-BDD5RRKT.woff",
+      "assets/montserrat-latin-600-italic-DCmiaZal.woff2",
+      "assets/montserrat-latin-600-italic-C2rWdPG5.woff",
+      "assets/montserrat-latin-700-italic-CVXUyyJw.woff2",
+      "assets/montserrat-latin-700-italic-Dd0573q7.woff",
+      "assets/montserrat-latin-800-italic-8xym41hZ.woff2",
+      "assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
+      "assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
+      "assets/montserrat-latin-900-italic-DRb7Rstx.woff"
+    ]
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-100-italic.woff": {
+    "file": "assets/montserrat-latin-100-italic--4mZ6fjb.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-100-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-100-italic.woff2": {
+    "file": "assets/montserrat-latin-100-italic-DTszKFgb.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-100-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-100-normal.woff": {
+    "file": "assets/montserrat-latin-100-normal-DBjbkire.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-100-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-100-normal.woff2": {
+    "file": "assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-100-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-200-italic.woff": {
+    "file": "assets/montserrat-latin-200-italic-B-8fPZpI.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-200-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-200-italic.woff2": {
+    "file": "assets/montserrat-latin-200-italic-BGwqYsvp.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-200-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-200-normal.woff": {
+    "file": "assets/montserrat-latin-200-normal-ByeQgr9u.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-200-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-200-normal.woff2": {
+    "file": "assets/montserrat-latin-200-normal-Co0glrxx.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-200-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-italic.woff": {
+    "file": "assets/montserrat-latin-300-italic-C0sppkn3.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-italic.woff2": {
+    "file": "assets/montserrat-latin-300-italic-C9RzMG1_.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff": {
+    "file": "assets/montserrat-latin-300-normal-DrgRfrdN.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff2": {
+    "file": "assets/montserrat-latin-300-normal-DYYY4VIB.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-italic.woff": {
+    "file": "assets/montserrat-latin-400-italic-Bo3p_2Fg.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-italic.woff2": {
+    "file": "assets/montserrat-latin-400-italic-DK-gMZXQ.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff": {
+    "file": "assets/montserrat-latin-400-normal-BhTl8mZv.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2": {
+    "file": "assets/montserrat-latin-400-normal-BfmCfwfZ.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-italic.woff": {
+    "file": "assets/montserrat-latin-500-italic-BDD5RRKT.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-italic.woff2": {
+    "file": "assets/montserrat-latin-500-italic-nNzpCo1d.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff": {
+    "file": "assets/montserrat-latin-500-normal-T-BM6Fhn.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2": {
+    "file": "assets/montserrat-latin-500-normal-CN3hDfLq.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-italic.woff": {
+    "file": "assets/montserrat-latin-600-italic-C2rWdPG5.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-italic.woff2": {
+    "file": "assets/montserrat-latin-600-italic-DCmiaZal.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff": {
+    "file": "assets/montserrat-latin-600-normal-C1Wg56Vg.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2": {
+    "file": "assets/montserrat-latin-600-normal-CFh7D7Z4.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-italic.woff": {
+    "file": "assets/montserrat-latin-700-italic-Dd0573q7.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-italic.woff2": {
+    "file": "assets/montserrat-latin-700-italic-CVXUyyJw.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff": {
+    "file": "assets/montserrat-latin-700-normal-o5q9xX7W.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2": {
+    "file": "assets/montserrat-latin-700-normal-Dkxlx_w4.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-italic.woff": {
+    "file": "assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-italic.woff2": {
+    "file": "assets/montserrat-latin-800-italic-8xym41hZ.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff": {
+    "file": "assets/montserrat-latin-800-normal-Cf8oFnaQ.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2": {
+    "file": "assets/montserrat-latin-800-normal-DIlMgMlR.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-900-italic.woff": {
+    "file": "assets/montserrat-latin-900-italic-DRb7Rstx.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-900-italic.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-900-italic.woff2": {
+    "file": "assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-900-italic.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff": {
+    "file": "assets/montserrat-latin-900-normal-B8YluUfy.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2": {
+    "file": "assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2"
+  },
+  "src/components/ProjectItem.tsx": {
+    "file": "assets/ProjectItem-DHr4h8M_.js",
+    "name": "ProjectItem",
+    "src": "src/components/ProjectItem.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/ProjectItem-Cxy6evux.css"
+    ]
+  },
+  "src/images/companies/netpolitan_logo.jpeg": {
+    "file": "assets/netpolitan_logo-_X81dkbe.jpeg",
+    "src": "src/images/companies/netpolitan_logo.jpeg"
+  },
+  "src/images/profile-avatar.jpeg": {
+    "file": "assets/profile-avatar-CpyOXSTt.jpeg",
+    "src": "src/images/profile-avatar.jpeg"
+  },
+  "src/images/screenshots/ch/ch-background-settings1.png": {
+    "file": "assets/ch-background-settings1-BFyVz6wv.png",
+    "src": "src/images/screenshots/ch/ch-background-settings1.png"
+  },
+  "src/images/screenshots/ch/ch-background-settings2.png": {
+    "file": "assets/ch-background-settings2-BHJaLM7o.png",
+    "src": "src/images/screenshots/ch/ch-background-settings2.png"
+  },
+  "src/images/screenshots/ch/ch-bookmarks.png": {
+    "file": "assets/ch-bookmarks-D5KDG-GB.png",
+    "src": "src/images/screenshots/ch/ch-bookmarks.png"
+  },
+  "src/images/screenshots/ch/ch-idle.png": {
+    "file": "assets/ch-idle-Bez9yR0q.png",
+    "src": "src/images/screenshots/ch/ch-idle.png"
+  },
+  "src/images/screenshots/ch/ch-menus.png": {
+    "file": "assets/ch-menus-q_ZBcMpZ.png",
+    "src": "src/images/screenshots/ch/ch-menus.png"
+  },
+  "src/images/screenshots/ch/ch-notes.png": {
+    "file": "assets/ch-notes-BmH5uyYL.png",
+    "src": "src/images/screenshots/ch/ch-notes.png"
+  },
+  "src/images/screenshots/ch/ch-search-panel-entered-keyword.png": {
+    "file": "assets/ch-search-panel-entered-keyword-Bf7pWIRI.png",
+    "src": "src/images/screenshots/ch/ch-search-panel-entered-keyword.png"
+  },
+  "src/images/screenshots/ch/ch-search-panel-open.png": {
+    "file": "assets/ch-search-panel-open-PADVttOw.png",
+    "src": "src/images/screenshots/ch/ch-search-panel-open.png"
+  },
+  "src/images/screenshots/intara/intara-device.png": {
+    "file": "assets/intara-device-BkKBAtaJ.png",
+    "src": "src/images/screenshots/intara/intara-device.png"
+  },
+  "src/images/screenshots/intara/intara-login.png": {
+    "file": "assets/intara-login-CxtDoic2.png",
+    "src": "src/images/screenshots/intara/intara-login.png"
+  },
+  "src/images/screenshots/intara/intara-overview.png": {
+    "file": "assets/intara-overview-CB8m_JoB.png",
+    "src": "src/images/screenshots/intara/intara-overview.png"
+  },
+  "src/images/screenshots/intara/intara-pasien.png": {
+    "file": "assets/intara-pasien-DnlzTP-1.png",
+    "src": "src/images/screenshots/intara/intara-pasien.png"
+  },
+  "src/images/screenshots/intara/intara-usage.png": {
+    "file": "assets/intara-usage-Bl3jI6zq.png",
+    "src": "src/images/screenshots/intara/intara-usage.png"
+  },
+  "src/images/screenshots/open-pos/login-page.webp": {
+    "file": "assets/login-page-CAGAGG-y.webp",
+    "src": "src/images/screenshots/open-pos/login-page.webp"
+  },
+  "src/images/screenshots/open-pos/pos-canceled.webp": {
+    "file": "assets/pos-canceled-BNLL8qFC.webp",
+    "src": "src/images/screenshots/open-pos/pos-canceled.webp"
+  },
+  "src/images/screenshots/open-pos/pos-complete.webp": {
+    "file": "assets/pos-complete-eyzSBy31.webp",
+    "src": "src/images/screenshots/open-pos/pos-complete.webp"
+  },
+  "src/images/screenshots/open-pos/pos-create-product.webp": {
+    "file": "assets/pos-create-product-7qO_l53M.webp",
+    "src": "src/images/screenshots/open-pos/pos-create-product.webp"
+  },
+  "src/images/screenshots/open-pos/pos-home-cart.webp": {
+    "file": "assets/pos-home-cart-CyITGGRf.webp",
+    "src": "src/images/screenshots/open-pos/pos-home-cart.webp"
+  },
+  "src/images/screenshots/open-pos/pos-list-orders.webp": {
+    "file": "assets/pos-list-orders-Dx8c_3Hx.webp",
+    "src": "src/images/screenshots/open-pos/pos-list-orders.webp"
+  },
+  "src/images/screenshots/open-pos/pos-list-product.webp": {
+    "file": "assets/pos-list-product-Bmjq7Kmb.webp",
+    "src": "src/images/screenshots/open-pos/pos-list-product.webp"
+  },
+  "src/images/screenshots/open-pos/pos-mobile-view-detail.webp": {
+    "file": "assets/pos-mobile-view-detail-BNWqxaWI.webp",
+    "src": "src/images/screenshots/open-pos/pos-mobile-view-detail.webp"
+  },
+  "src/images/screenshots/open-pos/pos-mobile-view.webp": {
+    "file": "assets/pos-mobile-view-ODnGYgES.webp",
+    "src": "src/images/screenshots/open-pos/pos-mobile-view.webp"
+  },
+  "src/images/screenshots/open-pos/pos-paid.webp": {
+    "file": "assets/pos-paid-CtOuxScm.webp",
+    "src": "src/images/screenshots/open-pos/pos-paid.webp"
+  },
+  "src/images/screenshots/open-pos/pos-pending-cash.webp": {
+    "file": "assets/pos-pending-cash-AKNMYRni.webp",
+    "src": "src/images/screenshots/open-pos/pos-pending-cash.webp"
+  },
+  "src/images/screenshots/open-pos/pos-pending-qris.webp": {
+    "file": "assets/pos-pending-qris-BwLP5fC8.webp",
+    "src": "src/images/screenshots/open-pos/pos-pending-qris.webp"
+  },
+  "src/images/screenshots/patungan_app/dashboard.webp": {
+    "file": "assets/dashboard-D-v2PQPw.webp",
+    "src": "src/images/screenshots/patungan_app/dashboard.webp"
+  },
+  "src/images/screenshots/patungan_app/login.webp": {
+    "file": "assets/login-CI6yqE4V.webp",
+    "src": "src/images/screenshots/patungan_app/login.webp"
+  },
+  "src/images/screenshots/patungan_app/payment-due-payment.webp": {
+    "file": "assets/payment-due-payment-bqTILrtd.webp",
+    "src": "src/images/screenshots/patungan_app/payment-due-payment.webp"
+  },
+  "src/images/screenshots/patungan_app/payment-dues-by-plan-fixed.webp": {
+    "file": "assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
+    "src": "src/images/screenshots/patungan_app/payment-dues-by-plan-fixed.webp"
+  },
+  "src/images/screenshots/patungan_app/plans.webp": {
+    "file": "assets/plans-CHVw5QBa.webp",
+    "src": "src/images/screenshots/patungan_app/plans.webp"
+  },
+  "src/images/screenshots/patungan_app/settings.webp": {
+    "file": "assets/settings-sRN7cwqn.webp",
+    "src": "src/images/screenshots/patungan_app/settings.webp"
+  },
+  "src/images/screenshots/patungan_app/users.webp": {
+    "file": "assets/users-ClEBNJ90.webp",
+    "src": "src/images/screenshots/patungan_app/users.webp"
+  },
+  "src/images/screenshots/payment-app/admin-login.png": {
+    "file": "assets/admin-login-CqRCRM1A.png",
+    "src": "src/images/screenshots/payment-app/admin-login.png"
+  },
+  "src/images/screenshots/payment-app/admin-page.png": {
+    "file": "assets/admin-page-COg-qBeA.png",
+    "src": "src/images/screenshots/payment-app/admin-page.png"
+  },
+  "src/images/screenshots/payment-app/landing.png": {
+    "file": "assets/landing-DfON7TD1.png",
+    "src": "src/images/screenshots/payment-app/landing.png"
+  },
+  "src/images/screenshots/payment-app/payment-step1.png": {
+    "file": "assets/payment-step1-BjkNosky.png",
+    "src": "src/images/screenshots/payment-app/payment-step1.png"
+  },
+  "src/images/screenshots/payment-app/payment-step2.png": {
+    "file": "assets/payment-step2-2q6pODMl.png",
+    "src": "src/images/screenshots/payment-app/payment-step2.png"
+  },
+  "src/images/screenshots/payment-app/payment-step3.png": {
+    "file": "assets/payment-step3-nljK5GM_.png",
+    "src": "src/images/screenshots/payment-app/payment-step3.png"
+  },
+  "src/images/screenshots/payment-app/payment-step4.png": {
+    "file": "assets/payment-step4-BC_aYi4T.png",
+    "src": "src/images/screenshots/payment-app/payment-step4.png"
+  },
+  "src/images/screenshots/payment-app/payment-step5.png": {
+    "file": "assets/payment-step5-C93UMcpP.png",
+    "src": "src/images/screenshots/payment-app/payment-step5.png"
+  },
+  "src/images/screenshots/sara/checklist-management.png": {
+    "file": "assets/checklist-management-XJJNI4Mp.png",
+    "src": "src/images/screenshots/sara/checklist-management.png"
+  },
+  "src/images/screenshots/sara/hotel-admin-homepage.png": {
+    "file": "assets/hotel-admin-homepage-DSLmNL34.png",
+    "src": "src/images/screenshots/sara/hotel-admin-homepage.png"
+  },
+  "src/images/screenshots/sara/landing.png": {
+    "file": "assets/landing-D9QzskbJ.png",
+    "src": "src/images/screenshots/sara/landing.png"
+  },
+  "src/images/screenshots/sara/login.png": {
+    "file": "assets/login-ByXnfBZO.png",
+    "src": "src/images/screenshots/sara/login.png"
+  },
+  "src/images/screenshots/sara/maindashboard.png": {
+    "file": "assets/maindashboard-B5WdJw96.png",
+    "src": "src/images/screenshots/sara/maindashboard.png"
+  },
+  "src/images/screenshots/sara/reports1.png": {
+    "file": "assets/reports1-DHLJBZ6Q.png",
+    "src": "src/images/screenshots/sara/reports1.png"
+  },
+  "src/images/screenshots/sara/reports2.png": {
+    "file": "assets/reports2-RQl2iKl6.png",
+    "src": "src/images/screenshots/sara/reports2.png"
+  },
+  "src/images/screenshots/sara/scheduled-requests.png": {
+    "file": "assets/scheduled-requests-JbXkES7h.png",
+    "src": "src/images/screenshots/sara/scheduled-requests.png"
+  },
+  "src/images/screenshots/toffin/elearning.png": {
+    "file": "assets/elearning-C9hg5OC5.png",
+    "src": "src/images/screenshots/toffin/elearning.png"
+  },
+  "src/images/screenshots/toffin/forgot-password.png": {
+    "file": "assets/forgot-password-DMmakf9T.png",
+    "src": "src/images/screenshots/toffin/forgot-password.png"
+  },
+  "src/images/screenshots/toffin/intro.png": {
+    "file": "assets/intro-tbZM6PWt.png",
+    "src": "src/images/screenshots/toffin/intro.png"
+  },
+  "src/images/screenshots/toffin/mainhomepage.png": {
+    "file": "assets/mainhomepage-6Psn11n4.png",
+    "src": "src/images/screenshots/toffin/mainhomepage.png"
+  },
+  "src/images/screenshots/toffin/myaccount.png": {
+    "file": "assets/myaccount-BV2d9QF5.png",
+    "src": "src/images/screenshots/toffin/myaccount.png"
+  },
+  "src/images/screenshots/toffin/register.png": {
+    "file": "assets/register-DrFUwJbs.png",
+    "src": "src/images/screenshots/toffin/register.png"
+  }
+}
