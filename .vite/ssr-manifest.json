@@ -1,8 +1,4 @@
 {
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/classnames/index.js?commonjs-module": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
   "\u0000/home/runner/work/portfolio/portfolio/node_modules/prop-types/index.js?commonjs-module": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
     "/assets/ch-idle-Bez9yR0q.png",
@@ -192,7 +188,7 @@
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
   "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/client-CTsjVZk1.js"
+    "/assets/client-CUJDUkiF.js"
   ],
   "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-dom/index.js?commonjs-module": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -287,14 +283,6 @@
     "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-easy-swipe/lib/index.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-easy-swipe/lib/react-swipe.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
   ],
   "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-is/cjs/react-is.production.min.js?commonjs-exports": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -483,50 +471,6 @@
     "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/CSSTranslate.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/components/Carousel/animations.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/components/Carousel/index.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/components/Carousel/types.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/components/Carousel/utils.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/components/Thumbs.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/cssClasses.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/dimensions.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/index.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/shims/document.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "\u0000/home/runner/work/portfolio/portfolio/node_modules/react-responsive-carousel/lib/js/shims/window.js?commonjs-exports": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
   ],
   "\u0000/home/runner/work/portfolio/portfolio/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -5510,10 +5454,6 @@
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
-  "node_modules/classnames/index.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
   "node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
     "/assets/ch-idle-Bez9yR0q.png",
@@ -6079,7 +6019,7 @@
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-CTsjVZk1.js"
+    "/assets/client-CUJDUkiF.js"
   ],
   "node_modules/react-dom/index.js": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -6174,14 +6114,6 @@
     "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
-  "node_modules/react-easy-swipe/lib/index.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-easy-swipe/lib/react-swipe.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
   ],
   "node_modules/react-helmet-async/lib/index.module.js": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -6747,7 +6679,101 @@
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
-  "node_modules/react-icons/vsc/index.mjs": [
+  "node_modules/react-icons/si/index.mjs": [
+    "/assets/profile-avatar-CpyOXSTt.jpeg",
+    "/assets/ch-idle-Bez9yR0q.png",
+    "/assets/ch-search-panel-open-PADVttOw.png",
+    "/assets/ch-search-panel-entered-keyword-Bf7pWIRI.png",
+    "/assets/ch-menus-q_ZBcMpZ.png",
+    "/assets/ch-notes-BmH5uyYL.png",
+    "/assets/ch-bookmarks-D5KDG-GB.png",
+    "/assets/ch-background-settings1-BFyVz6wv.png",
+    "/assets/ch-background-settings2-BHJaLM7o.png",
+    "/assets/landing-D9QzskbJ.png",
+    "/assets/login-ByXnfBZO.png",
+    "/assets/maindashboard-B5WdJw96.png",
+    "/assets/scheduled-requests-JbXkES7h.png",
+    "/assets/reports1-DHLJBZ6Q.png",
+    "/assets/reports2-RQl2iKl6.png",
+    "/assets/hotel-admin-homepage-DSLmNL34.png",
+    "/assets/checklist-management-XJJNI4Mp.png",
+    "/assets/landing-DfON7TD1.png",
+    "/assets/admin-login-CqRCRM1A.png",
+    "/assets/admin-page-COg-qBeA.png",
+    "/assets/payment-step1-BjkNosky.png",
+    "/assets/payment-step2-2q6pODMl.png",
+    "/assets/payment-step3-nljK5GM_.png",
+    "/assets/payment-step4-BC_aYi4T.png",
+    "/assets/payment-step5-C93UMcpP.png",
+    "/assets/intro-tbZM6PWt.png",
+    "/assets/register-DrFUwJbs.png",
+    "/assets/forgot-password-DMmakf9T.png",
+    "/assets/mainhomepage-6Psn11n4.png",
+    "/assets/myaccount-BV2d9QF5.png",
+    "/assets/elearning-C9hg5OC5.png",
+    "/assets/intara-device-BkKBAtaJ.png",
+    "/assets/intara-login-CxtDoic2.png",
+    "/assets/intara-overview-CB8m_JoB.png",
+    "/assets/intara-pasien-DnlzTP-1.png",
+    "/assets/intara-usage-Bl3jI6zq.png",
+    "/assets/login-page-CAGAGG-y.webp",
+    "/assets/pos-canceled-BNLL8qFC.webp",
+    "/assets/pos-complete-eyzSBy31.webp",
+    "/assets/pos-create-product-7qO_l53M.webp",
+    "/assets/pos-home-cart-CyITGGRf.webp",
+    "/assets/pos-list-orders-Dx8c_3Hx.webp",
+    "/assets/pos-list-product-Bmjq7Kmb.webp",
+    "/assets/pos-mobile-view-detail-BNWqxaWI.webp",
+    "/assets/pos-mobile-view-ODnGYgES.webp",
+    "/assets/pos-paid-CtOuxScm.webp",
+    "/assets/pos-pending-cash-AKNMYRni.webp",
+    "/assets/pos-pending-qris-BwLP5fC8.webp",
+    "/assets/dashboard-D-v2PQPw.webp",
+    "/assets/login-CI6yqE4V.webp",
+    "/assets/payment-due-payment-bqTILrtd.webp",
+    "/assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
+    "/assets/plans-CHVw5QBa.webp",
+    "/assets/settings-sRN7cwqn.webp",
+    "/assets/users-ClEBNJ90.webp",
+    "/assets/netpolitan_logo-_X81dkbe.jpeg",
+    "/assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
+    "/assets/montserrat-latin-100-normal-DBjbkire.woff",
+    "/assets/montserrat-latin-200-normal-Co0glrxx.woff2",
+    "/assets/montserrat-latin-200-normal-ByeQgr9u.woff",
+    "/assets/montserrat-latin-300-normal-DYYY4VIB.woff2",
+    "/assets/montserrat-latin-300-normal-DrgRfrdN.woff",
+    "/assets/montserrat-latin-400-normal-BfmCfwfZ.woff2",
+    "/assets/montserrat-latin-400-normal-BhTl8mZv.woff",
+    "/assets/montserrat-latin-500-normal-CN3hDfLq.woff2",
+    "/assets/montserrat-latin-500-normal-T-BM6Fhn.woff",
+    "/assets/montserrat-latin-600-normal-CFh7D7Z4.woff2",
+    "/assets/montserrat-latin-600-normal-C1Wg56Vg.woff",
+    "/assets/montserrat-latin-700-normal-Dkxlx_w4.woff2",
+    "/assets/montserrat-latin-700-normal-o5q9xX7W.woff",
+    "/assets/montserrat-latin-800-normal-DIlMgMlR.woff2",
+    "/assets/montserrat-latin-800-normal-Cf8oFnaQ.woff",
+    "/assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
+    "/assets/montserrat-latin-900-normal-B8YluUfy.woff",
+    "/assets/montserrat-latin-100-italic-DTszKFgb.woff2",
+    "/assets/montserrat-latin-100-italic--4mZ6fjb.woff",
+    "/assets/montserrat-latin-200-italic-BGwqYsvp.woff2",
+    "/assets/montserrat-latin-200-italic-B-8fPZpI.woff",
+    "/assets/montserrat-latin-300-italic-C9RzMG1_.woff2",
+    "/assets/montserrat-latin-300-italic-C0sppkn3.woff",
+    "/assets/montserrat-latin-400-italic-DK-gMZXQ.woff2",
+    "/assets/montserrat-latin-400-italic-Bo3p_2Fg.woff",
+    "/assets/montserrat-latin-500-italic-nNzpCo1d.woff2",
+    "/assets/montserrat-latin-500-italic-BDD5RRKT.woff",
+    "/assets/montserrat-latin-600-italic-DCmiaZal.woff2",
+    "/assets/montserrat-latin-600-italic-C2rWdPG5.woff",
+    "/assets/montserrat-latin-700-italic-CVXUyyJw.woff2",
+    "/assets/montserrat-latin-700-italic-Dd0573q7.woff",
+    "/assets/montserrat-latin-800-italic-8xym41hZ.woff2",
+    "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
+    "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
+    "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
+  ],
+  "node_modules/react-icons/tb/index.mjs": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
     "/assets/ch-idle-Bez9yR0q.png",
     "/assets/ch-search-panel-open-PADVttOw.png",
@@ -7028,50 +7054,6 @@
     "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/CSSTranslate.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/components/Carousel/animations.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/components/Carousel/index.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/components/Carousel/utils.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/components/Thumbs.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/cssClasses.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/dimensions.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/index.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/shims/document.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/js/shims/window.js": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
-  ],
-  "node_modules/react-responsive-carousel/lib/styles/carousel.min.css": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
   ],
   "node_modules/react-router-dom/dist/index.js": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
@@ -8953,100 +8935,6 @@
     "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
-  "src/components/Chip.tsx": [
-    "/assets/profile-avatar-CpyOXSTt.jpeg",
-    "/assets/ch-idle-Bez9yR0q.png",
-    "/assets/ch-search-panel-open-PADVttOw.png",
-    "/assets/ch-search-panel-entered-keyword-Bf7pWIRI.png",
-    "/assets/ch-menus-q_ZBcMpZ.png",
-    "/assets/ch-notes-BmH5uyYL.png",
-    "/assets/ch-bookmarks-D5KDG-GB.png",
-    "/assets/ch-background-settings1-BFyVz6wv.png",
-    "/assets/ch-background-settings2-BHJaLM7o.png",
-    "/assets/landing-D9QzskbJ.png",
-    "/assets/login-ByXnfBZO.png",
-    "/assets/maindashboard-B5WdJw96.png",
-    "/assets/scheduled-requests-JbXkES7h.png",
-    "/assets/reports1-DHLJBZ6Q.png",
-    "/assets/reports2-RQl2iKl6.png",
-    "/assets/hotel-admin-homepage-DSLmNL34.png",
-    "/assets/checklist-management-XJJNI4Mp.png",
-    "/assets/landing-DfON7TD1.png",
-    "/assets/admin-login-CqRCRM1A.png",
-    "/assets/admin-page-COg-qBeA.png",
-    "/assets/payment-step1-BjkNosky.png",
-    "/assets/payment-step2-2q6pODMl.png",
-    "/assets/payment-step3-nljK5GM_.png",
-    "/assets/payment-step4-BC_aYi4T.png",
-    "/assets/payment-step5-C93UMcpP.png",
-    "/assets/intro-tbZM6PWt.png",
-    "/assets/register-DrFUwJbs.png",
-    "/assets/forgot-password-DMmakf9T.png",
-    "/assets/mainhomepage-6Psn11n4.png",
-    "/assets/myaccount-BV2d9QF5.png",
-    "/assets/elearning-C9hg5OC5.png",
-    "/assets/intara-device-BkKBAtaJ.png",
-    "/assets/intara-login-CxtDoic2.png",
-    "/assets/intara-overview-CB8m_JoB.png",
-    "/assets/intara-pasien-DnlzTP-1.png",
-    "/assets/intara-usage-Bl3jI6zq.png",
-    "/assets/login-page-CAGAGG-y.webp",
-    "/assets/pos-canceled-BNLL8qFC.webp",
-    "/assets/pos-complete-eyzSBy31.webp",
-    "/assets/pos-create-product-7qO_l53M.webp",
-    "/assets/pos-home-cart-CyITGGRf.webp",
-    "/assets/pos-list-orders-Dx8c_3Hx.webp",
-    "/assets/pos-list-product-Bmjq7Kmb.webp",
-    "/assets/pos-mobile-view-detail-BNWqxaWI.webp",
-    "/assets/pos-mobile-view-ODnGYgES.webp",
-    "/assets/pos-paid-CtOuxScm.webp",
-    "/assets/pos-pending-cash-AKNMYRni.webp",
-    "/assets/pos-pending-qris-BwLP5fC8.webp",
-    "/assets/dashboard-D-v2PQPw.webp",
-    "/assets/login-CI6yqE4V.webp",
-    "/assets/payment-due-payment-bqTILrtd.webp",
-    "/assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
-    "/assets/plans-CHVw5QBa.webp",
-    "/assets/settings-sRN7cwqn.webp",
-    "/assets/users-ClEBNJ90.webp",
-    "/assets/netpolitan_logo-_X81dkbe.jpeg",
-    "/assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
-    "/assets/montserrat-latin-100-normal-DBjbkire.woff",
-    "/assets/montserrat-latin-200-normal-Co0glrxx.woff2",
-    "/assets/montserrat-latin-200-normal-ByeQgr9u.woff",
-    "/assets/montserrat-latin-300-normal-DYYY4VIB.woff2",
-    "/assets/montserrat-latin-300-normal-DrgRfrdN.woff",
-    "/assets/montserrat-latin-400-normal-BfmCfwfZ.woff2",
-    "/assets/montserrat-latin-400-normal-BhTl8mZv.woff",
-    "/assets/montserrat-latin-500-normal-CN3hDfLq.woff2",
-    "/assets/montserrat-latin-500-normal-T-BM6Fhn.woff",
-    "/assets/montserrat-latin-600-normal-CFh7D7Z4.woff2",
-    "/assets/montserrat-latin-600-normal-C1Wg56Vg.woff",
-    "/assets/montserrat-latin-700-normal-Dkxlx_w4.woff2",
-    "/assets/montserrat-latin-700-normal-o5q9xX7W.woff",
-    "/assets/montserrat-latin-800-normal-DIlMgMlR.woff2",
-    "/assets/montserrat-latin-800-normal-Cf8oFnaQ.woff",
-    "/assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
-    "/assets/montserrat-latin-900-normal-B8YluUfy.woff",
-    "/assets/montserrat-latin-100-italic-DTszKFgb.woff2",
-    "/assets/montserrat-latin-100-italic--4mZ6fjb.woff",
-    "/assets/montserrat-latin-200-italic-BGwqYsvp.woff2",
-    "/assets/montserrat-latin-200-italic-B-8fPZpI.woff",
-    "/assets/montserrat-latin-300-italic-C9RzMG1_.woff2",
-    "/assets/montserrat-latin-300-italic-C0sppkn3.woff",
-    "/assets/montserrat-latin-400-italic-DK-gMZXQ.woff2",
-    "/assets/montserrat-latin-400-italic-Bo3p_2Fg.woff",
-    "/assets/montserrat-latin-500-italic-nNzpCo1d.woff2",
-    "/assets/montserrat-latin-500-italic-BDD5RRKT.woff",
-    "/assets/montserrat-latin-600-italic-DCmiaZal.woff2",
-    "/assets/montserrat-latin-600-italic-C2rWdPG5.woff",
-    "/assets/montserrat-latin-700-italic-CVXUyyJw.woff2",
-    "/assets/montserrat-latin-700-italic-Dd0573q7.woff",
-    "/assets/montserrat-latin-800-italic-8xym41hZ.woff2",
-    "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
-    "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
-    "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
   "src/components/Container.tsx": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
     "/assets/ch-idle-Bez9yR0q.png",
@@ -9142,100 +9030,6 @@
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
   "src/components/ExperienceCard.tsx": [
-    "/assets/profile-avatar-CpyOXSTt.jpeg",
-    "/assets/ch-idle-Bez9yR0q.png",
-    "/assets/ch-search-panel-open-PADVttOw.png",
-    "/assets/ch-search-panel-entered-keyword-Bf7pWIRI.png",
-    "/assets/ch-menus-q_ZBcMpZ.png",
-    "/assets/ch-notes-BmH5uyYL.png",
-    "/assets/ch-bookmarks-D5KDG-GB.png",
-    "/assets/ch-background-settings1-BFyVz6wv.png",
-    "/assets/ch-background-settings2-BHJaLM7o.png",
-    "/assets/landing-D9QzskbJ.png",
-    "/assets/login-ByXnfBZO.png",
-    "/assets/maindashboard-B5WdJw96.png",
-    "/assets/scheduled-requests-JbXkES7h.png",
-    "/assets/reports1-DHLJBZ6Q.png",
-    "/assets/reports2-RQl2iKl6.png",
-    "/assets/hotel-admin-homepage-DSLmNL34.png",
-    "/assets/checklist-management-XJJNI4Mp.png",
-    "/assets/landing-DfON7TD1.png",
-    "/assets/admin-login-CqRCRM1A.png",
-    "/assets/admin-page-COg-qBeA.png",
-    "/assets/payment-step1-BjkNosky.png",
-    "/assets/payment-step2-2q6pODMl.png",
-    "/assets/payment-step3-nljK5GM_.png",
-    "/assets/payment-step4-BC_aYi4T.png",
-    "/assets/payment-step5-C93UMcpP.png",
-    "/assets/intro-tbZM6PWt.png",
-    "/assets/register-DrFUwJbs.png",
-    "/assets/forgot-password-DMmakf9T.png",
-    "/assets/mainhomepage-6Psn11n4.png",
-    "/assets/myaccount-BV2d9QF5.png",
-    "/assets/elearning-C9hg5OC5.png",
-    "/assets/intara-device-BkKBAtaJ.png",
-    "/assets/intara-login-CxtDoic2.png",
-    "/assets/intara-overview-CB8m_JoB.png",
-    "/assets/intara-pasien-DnlzTP-1.png",
-    "/assets/intara-usage-Bl3jI6zq.png",
-    "/assets/login-page-CAGAGG-y.webp",
-    "/assets/pos-canceled-BNLL8qFC.webp",
-    "/assets/pos-complete-eyzSBy31.webp",
-    "/assets/pos-create-product-7qO_l53M.webp",
-    "/assets/pos-home-cart-CyITGGRf.webp",
-    "/assets/pos-list-orders-Dx8c_3Hx.webp",
-    "/assets/pos-list-product-Bmjq7Kmb.webp",
-    "/assets/pos-mobile-view-detail-BNWqxaWI.webp",
-    "/assets/pos-mobile-view-ODnGYgES.webp",
-    "/assets/pos-paid-CtOuxScm.webp",
-    "/assets/pos-pending-cash-AKNMYRni.webp",
-    "/assets/pos-pending-qris-BwLP5fC8.webp",
-    "/assets/dashboard-D-v2PQPw.webp",
-    "/assets/login-CI6yqE4V.webp",
-    "/assets/payment-due-payment-bqTILrtd.webp",
-    "/assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
-    "/assets/plans-CHVw5QBa.webp",
-    "/assets/settings-sRN7cwqn.webp",
-    "/assets/users-ClEBNJ90.webp",
-    "/assets/netpolitan_logo-_X81dkbe.jpeg",
-    "/assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
-    "/assets/montserrat-latin-100-normal-DBjbkire.woff",
-    "/assets/montserrat-latin-200-normal-Co0glrxx.woff2",
-    "/assets/montserrat-latin-200-normal-ByeQgr9u.woff",
-    "/assets/montserrat-latin-300-normal-DYYY4VIB.woff2",
-    "/assets/montserrat-latin-300-normal-DrgRfrdN.woff",
-    "/assets/montserrat-latin-400-normal-BfmCfwfZ.woff2",
-    "/assets/montserrat-latin-400-normal-BhTl8mZv.woff",
-    "/assets/montserrat-latin-500-normal-CN3hDfLq.woff2",
-    "/assets/montserrat-latin-500-normal-T-BM6Fhn.woff",
-    "/assets/montserrat-latin-600-normal-CFh7D7Z4.woff2",
-    "/assets/montserrat-latin-600-normal-C1Wg56Vg.woff",
-    "/assets/montserrat-latin-700-normal-Dkxlx_w4.woff2",
-    "/assets/montserrat-latin-700-normal-o5q9xX7W.woff",
-    "/assets/montserrat-latin-800-normal-DIlMgMlR.woff2",
-    "/assets/montserrat-latin-800-normal-Cf8oFnaQ.woff",
-    "/assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
-    "/assets/montserrat-latin-900-normal-B8YluUfy.woff",
-    "/assets/montserrat-latin-100-italic-DTszKFgb.woff2",
-    "/assets/montserrat-latin-100-italic--4mZ6fjb.woff",
-    "/assets/montserrat-latin-200-italic-BGwqYsvp.woff2",
-    "/assets/montserrat-latin-200-italic-B-8fPZpI.woff",
-    "/assets/montserrat-latin-300-italic-C9RzMG1_.woff2",
-    "/assets/montserrat-latin-300-italic-C0sppkn3.woff",
-    "/assets/montserrat-latin-400-italic-DK-gMZXQ.woff2",
-    "/assets/montserrat-latin-400-italic-Bo3p_2Fg.woff",
-    "/assets/montserrat-latin-500-italic-nNzpCo1d.woff2",
-    "/assets/montserrat-latin-500-italic-BDD5RRKT.woff",
-    "/assets/montserrat-latin-600-italic-DCmiaZal.woff2",
-    "/assets/montserrat-latin-600-italic-C2rWdPG5.woff",
-    "/assets/montserrat-latin-700-italic-CVXUyyJw.woff2",
-    "/assets/montserrat-latin-700-italic-Dd0573q7.woff",
-    "/assets/montserrat-latin-800-italic-8xym41hZ.woff2",
-    "/assets/montserrat-latin-800-italic-BjH2dr9Y.woff",
-    "/assets/montserrat-latin-900-italic-jAlSj0n8.woff2",
-    "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
-  ],
-  "src/components/ExpertiseCard.tsx": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",
     "/assets/ch-idle-Bez9yR0q.png",
     "/assets/ch-search-panel-open-PADVttOw.png",
@@ -9612,8 +9406,7 @@
     "/assets/montserrat-latin-900-italic-DRb7Rstx.woff"
   ],
   "src/components/ProjectItem.tsx": [
-    "/assets/ProjectItem-DHr4h8M_.js",
-    "/assets/ProjectItem-Cxy6evux.css"
+    "/assets/ProjectItem-XrmsIXMX.js"
   ],
   "src/components/Typography.tsx": [
     "/assets/profile-avatar-CpyOXSTt.jpeg",

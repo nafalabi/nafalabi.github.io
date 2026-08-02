@@ -1,6 +1,6 @@
 {
-  "_client-CTsjVZk1.js": {
-    "file": "assets/client-CTsjVZk1.js",
+  "_client-CUJDUkiF.js": {
+    "file": "assets/client-CUJDUkiF.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-Cu-oTWnL.js",
+    "file": "assets/app-DY5kmKDr.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-CTsjVZk1.js",
-      "_client-CTsjVZk1.js",
+      "_client-CUJDUkiF.js",
+      "_client-CUJDUkiF.js",
       "src/components/ProjectItem.tsx"
     ],
     "css": [
@@ -260,15 +260,12 @@
     "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2"
   },
   "src/components/ProjectItem.tsx": {
-    "file": "assets/ProjectItem-DHr4h8M_.js",
+    "file": "assets/ProjectItem-XrmsIXMX.js",
     "name": "ProjectItem",
     "src": "src/components/ProjectItem.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html"
-    ],
-    "css": [
-      "assets/ProjectItem-Cxy6evux.css"
     ]
   },
   "src/images/companies/netpolitan_logo.jpeg": {
