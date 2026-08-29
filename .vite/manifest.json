@@ -143,8 +143,8 @@
     "file": "assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
     "src": "../../node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2"
   },
-  "_client-6Hke8zGP.js": {
-    "file": "assets/client-6Hke8zGP.js",
+  "_client-Cuwg5YR4.js": {
+    "file": "assets/client-Cuwg5YR4.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -152,13 +152,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-AhiQYlg_.js",
+    "file": "assets/app-BSDHA4Vh.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-6Hke8zGP.js",
-      "_client-6Hke8zGP.js",
+      "_client-Cuwg5YR4.js",
+      "_client-Cuwg5YR4.js",
       "src/components/ProjectItem.tsx"
     ],
     "css": [
@@ -260,7 +260,7 @@
     ]
   },
   "src/components/ProjectItem.tsx": {
-    "file": "assets/ProjectItem-Bx3VJ3fs.js",
+    "file": "assets/ProjectItem-AjLlHMgh.js",
     "name": "ProjectItem",
     "src": "src/components/ProjectItem.tsx",
     "isDynamicEntry": true,
