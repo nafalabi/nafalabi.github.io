@@ -143,8 +143,8 @@
     "file": "assets/montserrat-latin-900-normal-HIE66ZyV.woff2",
     "src": "../../node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2"
   },
-  "_client-AMEJgErL.js": {
-    "file": "assets/client-AMEJgErL.js",
+  "_client-DKXKwQ0l.js": {
+    "file": "assets/client-DKXKwQ0l.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -152,13 +152,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-DWINJ85Q.js",
+    "file": "assets/app-BfIRI-XA.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-AMEJgErL.js",
-      "_client-AMEJgErL.js",
+      "_client-DKXKwQ0l.js",
+      "_client-DKXKwQ0l.js",
       "src/components/ProjectItem.tsx"
     ],
     "css": [
@@ -213,13 +213,13 @@
       "assets/pos-paid-CtOuxScm.webp",
       "assets/pos-pending-cash-AKNMYRni.webp",
       "assets/pos-pending-qris-BwLP5fC8.webp",
-      "assets/dashboard-D-v2PQPw.webp",
-      "assets/login-CI6yqE4V.webp",
-      "assets/payment-due-payment-bqTILrtd.webp",
-      "assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
-      "assets/plans-CHVw5QBa.webp",
-      "assets/settings-sRN7cwqn.webp",
-      "assets/users-ClEBNJ90.webp",
+      "assets/dashboard-CGqgEqyj.webp",
+      "assets/login-DTPaQ2VL.webp",
+      "assets/payment-due-payment-CUdeCdV0.webp",
+      "assets/payment-dues-by-plan-fixed-CDygxMG7.webp",
+      "assets/plans-jdackg9Q.webp",
+      "assets/settings-D4sgLeq8.webp",
+      "assets/users-tvllbE2P.webp",
       "assets/netpolitan_logo-_X81dkbe.jpeg",
       "assets/montserrat-latin-100-normal-BTBAXVBT.woff2",
       "assets/montserrat-latin-100-normal-DBjbkire.woff",
@@ -260,7 +260,7 @@
     ]
   },
   "src/components/ProjectItem.tsx": {
-    "file": "assets/ProjectItem-DHfrqC9M.js",
+    "file": "assets/ProjectItem-wCrv4h8n.js",
     "name": "ProjectItem",
     "src": "src/components/ProjectItem.tsx",
     "isDynamicEntry": true,
@@ -377,31 +377,31 @@
     "src": "src/images/screenshots/open-pos/pos-pending-qris.webp"
   },
   "src/images/screenshots/patungan_app/dashboard.webp": {
-    "file": "assets/dashboard-D-v2PQPw.webp",
+    "file": "assets/dashboard-CGqgEqyj.webp",
     "src": "src/images/screenshots/patungan_app/dashboard.webp"
   },
   "src/images/screenshots/patungan_app/login.webp": {
-    "file": "assets/login-CI6yqE4V.webp",
+    "file": "assets/login-DTPaQ2VL.webp",
     "src": "src/images/screenshots/patungan_app/login.webp"
   },
   "src/images/screenshots/patungan_app/payment-due-payment.webp": {
-    "file": "assets/payment-due-payment-bqTILrtd.webp",
+    "file": "assets/payment-due-payment-CUdeCdV0.webp",
     "src": "src/images/screenshots/patungan_app/payment-due-payment.webp"
   },
   "src/images/screenshots/patungan_app/payment-dues-by-plan-fixed.webp": {
-    "file": "assets/payment-dues-by-plan-fixed-BKI6K7pD.webp",
+    "file": "assets/payment-dues-by-plan-fixed-CDygxMG7.webp",
     "src": "src/images/screenshots/patungan_app/payment-dues-by-plan-fixed.webp"
   },
   "src/images/screenshots/patungan_app/plans.webp": {
-    "file": "assets/plans-CHVw5QBa.webp",
+    "file": "assets/plans-jdackg9Q.webp",
     "src": "src/images/screenshots/patungan_app/plans.webp"
   },
   "src/images/screenshots/patungan_app/settings.webp": {
-    "file": "assets/settings-sRN7cwqn.webp",
+    "file": "assets/settings-D4sgLeq8.webp",
     "src": "src/images/screenshots/patungan_app/settings.webp"
   },
   "src/images/screenshots/patungan_app/users.webp": {
-    "file": "assets/users-ClEBNJ90.webp",
+    "file": "assets/users-tvllbE2P.webp",
     "src": "src/images/screenshots/patungan_app/users.webp"
   },
   "src/images/screenshots/payment-app/admin-login.png": {
